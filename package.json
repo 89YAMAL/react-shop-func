@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://89yamal.github.io/react-shop-func",
   "eslintConfig": {
     "extends": [
       "react-app",
